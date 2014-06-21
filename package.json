@@ -1,0 +1,22 @@
+{
+  "name": "pokerFace",
+  "version": "0.0.1",
+  "description": "Poker engine (Texas Hold'em impl) for Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TP-devTeam/pokerFace.git"
+  },
+  "keywords": [
+    "poker"
+  ],
+  "author": "TP-devTeam",
+  "license": "GPL2",
+  "bugs": {
+    "url": "https://github.com/TP-devTeam/pokerFace/issues"
+  },
+  "homepage": "https://github.com/TP-devTeam/pokerFace"
+}
